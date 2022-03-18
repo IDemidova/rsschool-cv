@@ -4,8 +4,7 @@
 
 ## Contacts
 
-**Location:** Moscow, Russia
-
+**Location:** Moscow, Russia  
 **GitHub/Codewars/Discord:** IDemidova
 
 ## Summary
@@ -36,16 +35,14 @@ Currently learning front-end development in RS School.
 
 ## Education and Courses
 
-**Self-education:** books *"Head First HTML and CSS"* and *"Head First JavaScript Programming"* (**completed**)
-
-**[GeekBrains](https://gb.ru/):** course *"Frontend-developer"* (**suspended**)
-
-**[RS School](https://rs.school/):** course *"JavaScript/Front-end"* (**in progress**)
+**Self-education:** books *"Head First HTML and CSS"* and *"Head First JavaScript Programming"* (**completed**)  
+**[GeekBrains](https://gb.ru/):** course *"Frontend-developer"* (**suspended**)  
+**[RS School](https://rs.school/):** course *"JavaScript/Front-end"* (**in progress**)  
 
 ## Languages
 
 * Russian
 * English
 
-![GitHub image] (./GitHub.jpg)
+![GitHub image](GitHub.jpg)
 
